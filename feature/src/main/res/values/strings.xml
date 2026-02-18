@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cart Screen -->
+    <string name="cart_screen_title">Carts</string>
+    <string name="cart_item_title">Cart: %1$s</string>
+    <string name="cart_item_products_count">%1$d products</string>
+    <string name="cart_item_remove_button">Remove</string>
+    <string name="cart_dialog_confirm_delete_title">Remove cart?</string>
+    <string name="cart_dialog_confirm_delete_message">This cart has %d product(s). Do you want to remove it?</string>
+    <string name="cart_dialog_confirm">Remove</string>
+    <string name="cart_dialog_cancel">Cancel</string>
+    <string name="product_quantity">Qty: %1$d</string>
+    
+    <!-- States -->
+    <string name="cart_error_message">Error: %1$s</string>
+    <string name="cart_loading">Loading…</string>
+    <string name="cart_empty_message">No carts at the moment.</string>
+</resources>
